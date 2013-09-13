@@ -1,4 +1,4 @@
-tastypie-rsa-authentication
-===========================
+tastypie-rsa
+============
 
 An RSA based authentication for django-tastypie
